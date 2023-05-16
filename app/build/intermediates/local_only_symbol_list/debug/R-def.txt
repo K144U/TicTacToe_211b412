@@ -1,0 +1,28 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable box
+drawable cross
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable zero
+id RESET
+id gridLayout
+id imageView1
+id imageView2
+id imageView3
+id imageView4
+id imageView5
+id imageView6
+id imageView7
+id imageView8
+id imageView9
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.MyApplication
+style Theme.MyApplication
+xml backup_rules
+xml data_extraction_rules
